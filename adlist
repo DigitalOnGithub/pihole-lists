@@ -11,22 +11,19 @@
 # ===================================================================================================================
 # Lists by default:
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts	
-https://mirror1.malwaredomains.com/files/justdomains	
 https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist	
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt	
-https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 # -------------------------------------------------------------------------------------------------------------------
 # Custom Lists: 
-https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt	
-https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt	
 https://zerodot1.gitlab.io/CoinBlockerLists/list.txt	
 https://zerodot1.gitlab.io/CoinBlockerLists/list_browser.txt	
-https://raw.githubusercontent.com/CHEF-KOCH/Audio-fingerprint-pages/master/AudioFp.txt	
-https://raw.githubusercontent.com/CHEF-KOCH/Canvas-fingerprinting-pages/master/Canvas.txt	
-https://raw.githubusercontent.com/CHEF-KOCH/WebRTC-tracking/master/WebRTC.txt	
-https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/HOSTS/CK's-Ad-Tracker-HOSTS-FilterList.txt	
-https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/HOSTS/CK's-Spotify-HOSTS-FilterList.txt	
-https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/Corporations/NSABlocklist/CK's-NSABlocklist-FilterList.txt	
+https://gitlab.com/CHEF-KOCH/cks-filterlist/-/raw/master/hosts/Ads-tracker.txt
+https://gitlab.com/CHEF-KOCH/cks-filterlist/-/raw/master/hosts/Anti-FPT.txt
+https://gitlab.com/CHEF-KOCH/cks-filterlist/-/raw/master/hosts/Crashlytics.txt
+https://gitlab.com/CHEF-KOCH/cks-filterlist/-/raw/master/hosts/coinminer.txt
+https://gitlab.com/CHEF-KOCH/cks-filterlist/-/raw/master/hosts/Popads.txt
+https://gitlab.com/CHEF-KOCH/cks-filterlist/-/raw/master/hosts/Malware.txt
+https://gitlab.com/CHEF-KOCH/cks-filterlist/-/raw/master/Anti-Corp/hosts/AppleTelemetry.txt
 https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts	
 https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt	
 https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt	
